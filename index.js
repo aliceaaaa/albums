@@ -4,7 +4,7 @@ import Header from './src/Header';
 import AlbumList from './src/AlbumList';
 
 const App =() => ( 
-    <View>
+    <View style={{ flex : 1 }}>
     <Header title={"Albums"}/>
     <AlbumList/>
     </View>

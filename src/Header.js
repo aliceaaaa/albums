@@ -10,12 +10,14 @@ const styles = {
         backgroundColor: '#F8F8F8',
         alignItems: "center",
         justifyContent: "center",
-        height: 80,
-        paddingTop: 15,
+        height: 60,
+        paddingTop: 8,
+        marginBottom: 8,
         shadowColor: "#000",
         shadowOffset: {width: 0, height: 2},
         shadowOpacity: 0.2,
-        elecation: 2,
+        shadowRaduis: 2,
+        elevation: 2,
         position: "relative",
     }
 }
