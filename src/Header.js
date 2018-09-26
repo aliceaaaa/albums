@@ -7,7 +7,7 @@ const styles = {
         color: "black"
     },
     viewStyle: {
-        backgroundColor: '#CEC8C7',
+        backgroundColor: '#F8F8F8',
         alignItems: "center",
         justifyContent: "center",
         height: 80,
